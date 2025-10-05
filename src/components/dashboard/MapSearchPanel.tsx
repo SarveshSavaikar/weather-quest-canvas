@@ -6,7 +6,7 @@ import { Card } from "@/components/ui/card";
 import { GoogleMap, useJsApiLoader, Marker, Autocomplete } from "@react-google-maps/api";
 import { useToast } from "@/hooks/use-toast";
 
-const GOOGLE_MAPS_API_KEY = "AIzaSyCKv-2M-DEyU6U-P-ZDeoB2zM0kgG-sVYA";
+const GOOGLE_MAPS_API_KEY = "";
 
 const libraries: ("places")[] = ["places"];
 
